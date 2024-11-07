@@ -1,1 +1,1 @@
-Stellar classifiction using machine learning
+Stellar classification using machine learning
